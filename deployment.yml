@@ -16,7 +16,7 @@ spec:
       - name: pod-mysb
         image: dunhill741/spring:19
         ports:
-        - containerPort: 8085S
+        - containerPort: 8085
 ---
 apiVersion: v1
 kind: Service
