@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: pod-mysb
-        image: dunhill741/spring:19
+        image: dunhill741/spring:26
         ports:
         - containerPort: 8085
 ---
